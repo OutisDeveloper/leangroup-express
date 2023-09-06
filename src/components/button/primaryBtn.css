@@ -1,0 +1,6 @@
+.primaryBtn {
+  padding: 10px 20px;
+  border-radius: 4px;
+  background-color: #ef7c00;
+  transition: 0.3s ease-in-out;
+}

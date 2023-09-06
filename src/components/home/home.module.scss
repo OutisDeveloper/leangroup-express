@@ -1,0 +1,14 @@
+#home {
+  padding: 200px;
+  background-image: url("../../assets/images/home_page_bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 527px;
+  .homeContainer {
+    .homeContent {
+      display: flex;
+      justify-content: left;
+    }
+  }
+}
